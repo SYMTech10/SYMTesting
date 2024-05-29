@@ -1,3 +1,4 @@
 This is FIleC
 This is change for merge
 merge
+merge For squash
